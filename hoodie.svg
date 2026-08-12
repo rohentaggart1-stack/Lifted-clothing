@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<rect width="800" height="800" fill="#0a0a0a"/>
+<g transform="translate(100 55)">
+<path d="M210 150 Q300 75 390 150 L500 235 L440 320 L395 280 L405 610 Q300 670 195 610 L205 280 L160 320 L100 235 Z" fill="#e65b9a" stroke="#f28bb9" stroke-width="10"/>
+<path d="M210 150 Q300 95 390 150 L365 230 Q300 275 235 230Z" fill="#d94e8e"/>
+<path d="M300 205V615" stroke="#222" stroke-width="8"/>
+<path d="M130 300 L205 275 M470 300 L395 275" stroke="#f7a0c6" stroke-width="7"/>
+<path d="M185 420 Q300 345 415 420" fill="none" stroke="#111" stroke-width="9"/>
+<text x="300" y="455" text-anchor="middle" font-family="Arial Black,Arial" font-size="78" fill="#111" transform="skewX(-12)">LIFTED</text>
+<path d="M165 470 Q300 405 435 470" fill="none" stroke="#111" stroke-width="5"/>
+<g fill="#c84c82" stroke="#f3a2c7" stroke-width="5"><path d="M105 350 Q140 330 170 355 L155 440 Q125 460 95 430Z"/><path d="M495 350 Q460 330 430 355 L445 440 Q475 460 505 430Z"/></g>
+</g></svg>
