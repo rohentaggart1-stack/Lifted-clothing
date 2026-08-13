@@ -1,1 +1,0 @@
-let n=0;const c=document.getElementById('count'),t=document.getElementById('toast');document.querySelectorAll('.add').forEach(b=>b.onclick=()=>{n++;c.textContent=n;t.textContent='ADDED TO BAG';t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1200)});
