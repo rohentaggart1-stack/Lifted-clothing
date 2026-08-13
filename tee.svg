@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
-<rect width="800" height="800" fill="#0a0a0a"/>
-<g transform="translate(80 70)">
-<path d="M180 90 L290 45 L330 90 L370 45 L480 90 L620 190 L535 300 L470 255 L470 630 Q300 680 130 630 L130 255 L65 300 L-20 190Z" fill="#111" stroke="#444" stroke-width="8"/>
-<path d="M250 65 Q300 115 350 65" fill="none" stroke="#666" stroke-width="10"/>
-<g transform="translate(165 155)" stroke="#eee" stroke-width="8" fill="none"><path d="M145 20 L160 120 L230 175 L180 205 L145 155 L110 205 L60 175 L130 120Z"/><path d="M145 35 C105 90 95 145 145 200 C195 145 185 90 145 35Z"/></g>
-<text x="300" y="470" text-anchor="middle" font-family="Arial Black,Arial" font-size="76" fill="#f2f2f2" transform="skewX(-10)">NO LIMITS</text>
-<text x="300" y="520" text-anchor="middle" font-family="Arial" font-size="22" letter-spacing="8" fill="#aaa">LIFTED</text>
-</g></svg>
