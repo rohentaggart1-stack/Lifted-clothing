@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
-<rect width="800" height="800" fill="#0a0a0a"/>
-<g transform="translate(120 125)">
-<path d="M80 410 Q90 120 280 100 Q470 120 480 410Z" fill="#181818" stroke="#555" stroke-width="8"/>
-<path d="M65 390 Q280 350 495 390 L480 470 Q280 510 80 470Z" fill="#242424" stroke="#666" stroke-width="7"/>
-<path d="M155 290 Q280 205 405 290" fill="none" stroke="#eee" stroke-width="7"/>
-<path d="M280 155 L292 205 L345 205 L302 235 L317 285 L280 255 L243 285 L258 235 L215 205 L268 205Z" fill="#eee"/>
-<text x="280" y="435" text-anchor="middle" font-family="Arial Black,Arial" font-size="35" fill="#eee" letter-spacing="5">LIFTED</text>
-</g></svg>
