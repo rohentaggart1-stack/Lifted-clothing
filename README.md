@@ -1,0 +1,1 @@
+LIFTED streetwear website. Upload all files and the images folder to the root of your GitHub Pages repository.
